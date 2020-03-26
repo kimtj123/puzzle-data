@@ -34,13 +34,16 @@
   width: 150px;
   height: 50px;
   font-size: larger;
-  margin : 10px 0;
+  margin: 5px auto;
 }
 
 .submit-wrapper{
   vertical-align: middle;
 }
 
+.wrapper{
+  overflow: visible;
+}
 /***************************************요소*****************************************/
 input
 {
@@ -93,7 +96,7 @@ path
   shape-rendering: crispEdges;
 }
 
-rect
+rect:hover
 {
-  fill: "steelblue";
+  opacity : 0.5
 }
