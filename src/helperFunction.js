@@ -167,11 +167,8 @@ export function updateInfo(info,newDate,newVal,pickDate,setInfo,valueChanger)
 {
     if(check(info,newDate))
     {   
-        if(newDate !== pickDate) // 같은 날짜일 경우 수정이 되어야 함
-        {
             alert("날짜가 중복되었습니다.")
             return;
-        }
     }
 
     if(!dateForm.test(newDate))
