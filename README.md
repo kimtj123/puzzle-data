@@ -20,3 +20,6 @@
  
  - helperFunction.js 의 addChart 함수(막대추가)
  - helperFunction.js 의 updateInfo(값의 변경)
+
+4. 사용시 문제점
+ - date 입력창과 표시된 날짜의 값이 같아야 
