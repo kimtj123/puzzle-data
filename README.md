@@ -1,6 +1,6 @@
 퍼즐 데이터 코딩과제입니다.
 
-**bold 1. 시작**
+1. 시작
  yarn install => yarn start 로 어플 시작
  
 2. 구현기능
