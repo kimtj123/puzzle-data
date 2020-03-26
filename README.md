@@ -2,7 +2,7 @@
 
 1. 시작
 
-yarn install => yarn start 로 어플 시작
+ - yarn install => yarn start 로 어플 시작
 
 
 2. 구현기능
